@@ -1,0 +1,36 @@
+#map {
+        height: 500px;
+        width: 100%;
+       }
+h1{
+  font-family: 'Volkorn', cursive;
+  color: darkBlue;
+  background-image: url("https://www.llorenteycuenca.com/wp-content/uploads/2016/03/ficha_nyc.jpg");
+  text-align: center;
+  height: 150px;
+}
+
+img{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.navigator a button{
+  width: 200px;
+  color: red;
+  background-color: white;
+  border-color: black;
+}
+
+.navigator a button:hover{
+  color: white;
+  background-color: black;
+}
+
+.navigator{
+  padding-left: 180px
+}
+
+body{
+  background: url("https://media.timeout.com/images/103444978/image.jpg");
+}
